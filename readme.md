@@ -11,3 +11,8 @@ So I vibecoded this piece of script quickly as proof of concept. I set the maxim
 2025/12/05
 
 >Analyzing the effect of skin effect for coil windings, with the graph generated with the code. We can safely say that below 1Mhz it is not such a huge deal for thin wires.
+
+## 3.I_vs_R_on_Inductors
+originally measured on 2025/07/18, reupload in 2025/12/17
+
+>To test the linearity of inductors 
