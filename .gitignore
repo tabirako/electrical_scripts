@@ -3,6 +3,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/c,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=c,python
 
+# Feature set files
+*.csv
+
 ### C ###
 # Prerequisites
 *.d
