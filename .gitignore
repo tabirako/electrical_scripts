@@ -3,6 +3,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/c,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=c,python
 
+*.pyz
+
 # Feature set files
 *.csv
 
